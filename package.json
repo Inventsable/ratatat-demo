@@ -9,7 +9,7 @@
   "dependencies": {
     "brutalism": "^1.9.3",
     "core-js": "^3.6.5",
-    "ratatat": "^1.0.3",
+    "ratatat": "^1.0.5",
     "starlette": "^1.0.4",
     "vue": "^2.6.11"
   },
