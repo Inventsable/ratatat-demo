@@ -1,19 +1,7 @@
 # ratatat-test
 
-## Project setup
-```
-npm install
-```
+## [See the package here](https://github.com/battleaxedotco/ratatat)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Ratatat is a Vue component to easily turn any Lottie animation into a dynamic progress/loading bar:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://thumbs.gfycat.com/FearfulDimBuck-size_restricted.gif)
